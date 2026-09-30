@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareExample", "MiddlewareExample\MiddlewareExample.csproj", "{954E0E4A-AF54-46F5-B82D-C5F916CC4D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954E0E4A-AF54-46F5-B82D-C5F916CC4D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954E0E4A-AF54-46F5-B82D-C5F916CC4D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954E0E4A-AF54-46F5-B82D-C5F916CC4D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954E0E4A-AF54-46F5-B82D-C5F916CC4D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
