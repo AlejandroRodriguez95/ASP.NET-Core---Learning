@@ -1,7 +1,7 @@
+using Microsoft.AspNetCore.Builder;
 using MiddlewareExample.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddTransient<LoginMiddleware>();
 
 var app = builder.Build();
 
